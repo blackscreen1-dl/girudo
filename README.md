@@ -1,6 +1,9 @@
 # Autowasp #
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+<span style="color:red">Original Github Repo</span>. - https://github.com/PortSwigger/autowasp
+This repo is for random edits :)
+
 ![picture](./images/Autowasp1.png)
 
 Welcome to Autowasp, a Burp Suite extension that integrates Burp issues logging, with OWASP Web Security Testing Guide (WSTG), to provide a streamlined web security testing flow for the modern-day penetration tester! This tool will guide new penetration testers to understand the best practices of web application security and automate OWASP WSTG checks. This README will provide an introduction to the key features of Autowasp, the steps to   download and use the tool, and end off by sharing how security researchers and developers can make this tool better!  
