@@ -88,10 +88,11 @@ public class InstanceTable extends JTable {
 	// Method to prepare severity dropdown combo
 	public void generateSeverityList() {
 		JComboBox<String> comboBox = extender.comboBox3;
-		comboBox.addItem("High");
-		comboBox.addItem("Medium");
-		comboBox.addItem("Low");
-		comboBox.addItem("Information");
+		#Sugoi!
+		comboBox.addItem("takai"); #high
+		comboBox.addItem("naka"); #med
+		comboBox.addItem("hikui"); #low
+		comboBox.addItem("Joho"); #Info
 	}
 
 	// Method to delete instance
