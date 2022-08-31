@@ -1,8 +1,9 @@
+# Original Github Repo. - https://github.com/PortSwigger/autowasp
+
+## This repo is for random edits :)
+
 # Autowasp #
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-<span style="color:red">Original Github Repo</span>. - https://github.com/PortSwigger/autowasp
-This repo is for random edits :)
 
 ![picture](./images/Autowasp1.png)
 
